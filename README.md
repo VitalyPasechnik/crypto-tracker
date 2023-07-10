@@ -1,3 +1,5 @@
+Tech tasks:
+
 Build a simple Cryptocurrency Tracker Web Application using ReactJS and TypeScript. This application should display real-time values of some popular cryptocurrencies (like Bitcoin, Ethereum, Litecoin, etc.).
 
 
